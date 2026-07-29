@@ -3,7 +3,7 @@ Résolution numérique d'équations différentielles (Euler, Point Milieu, Crank
 # Modélisation Déterministe : Croissance Tumorale & Résolution d'EDO
 
 ## Contexte du projet
-Ce projet a été réalisé dans le cadre de mon Master 1 de Mathématiques Appliquées (Université Paris-Cité), pour le cours "Équations Différentielles Ordinaires : Modélisation, Analyse, Simulations". 
+Ce projet a été réalisé dans le cadre de mon Master 1 de Mathématiques Appliquées (Université Paris-Cité). 
 L'objectif était double :
 1.  **Analyse Numérique :** Étudier, implémenter et comparer les performances de différents schémas numériques (Euler Explicite/Implicite, Point Milieu, Crank-Nicholson) pour la résolution d'EDO.
 2.  **Modélisation Biologique (Model Fitting) :** Utiliser ces schémas pour ajuster des modèles théoriques (Malthus, Logistique, Gompertz) sur des données expérimentales réelles de croissance tumorale in vivo (évolution du volume tumoral en fonction du temps).
