@@ -31,7 +31,7 @@ Pour chaque modèle, j'ai développé un algorithme d'optimisation (basé sur la
 
 ## Résultats et Analyse
 *   L'analyse numérique a permis de confirmer empiriquement l'ordre de convergence des différents schémas implémentés.
-*   L'étape d'optimisation (Model Fitting) a mis en évidence les limites du modèle de Malthus à long terme et a démontré que le modèle de Gompertz (ainsi que le modèle Logistique, dans une moindre mesure) offrait la meilleure description quantitative de la dynamique de croissance de la tumeur[cite: 11].
+*   L'étape d'optimisation (Model Fitting) a mis en évidence les limites du modèle de Malthus à long terme et a démontré que le modèle de Gompertz (ainsi que le modèle Logistique, dans une moindre mesure) offrait la meilleure description quantitative de la dynamique de croissance de la tumeur.
 
 ## Compétences démontrées
 *   **Analyse Numérique :** Maîtrise des concepts de stabilité et de convergence des schémas de résolution d'EDO.
