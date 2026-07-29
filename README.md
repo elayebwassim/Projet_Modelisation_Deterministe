@@ -16,7 +16,7 @@ L'objectif était double :
 ## Démarche et Implémentation
 
 ### 1. Implémentation et Comparaison des Schémas Numériques
-Le projet a débuté par l'implémentation "from scratch" et l'analyse de l'erreur (en fonction du pas de temps $h$) de plusieurs méthodes de résolution :
+Le projet a débuté par l'implémentation et l'analyse de l'erreur (en fonction du pas de temps $h$) de plusieurs méthodes de résolution :
 *   **Schémas d'ordre 1 :** Euler Explicite et Euler Implicite (testés sur le modèle de Malthus).
 *   **Schémas d'ordre 2 :** Point Milieu et Crank-Nicholson (testés sur le modèle Logistique).
 *(L'implémentation des schémas implicites a nécessité la mise en place d'un algorithme de recherche de point fixe).*
