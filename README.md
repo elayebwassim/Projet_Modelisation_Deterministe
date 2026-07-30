@@ -29,7 +29,7 @@ La seconde phase a consisté à confronter trois modèles théoriques de dynamiq
 
 Pour chaque modèle, j'ai développé un algorithme d'optimisation (basé sur la minimisation de l'erreur des moindres carrés via `scipy.optimize.minimize`) pour identifier les paramètres optimaux ($\lambda, r, K$) permettant à la solution numérique de s'ajuster au mieux aux points de données réels.
 
-## Résultats et Analyse
+## Résultats 
 *   **Analyse Numérique :** L'étude empirique a confirmé que les schémas d'ordre 2 (Point Milieu et Crank-Nicholson) offrent une bien meilleure précision que le schéma d'Euler implicite (ordre 1) pour un même pas de temps $h$. Le schéma du Point Milieu s'est avéré être le meilleur compromis entre précision (ordre 2) et temps de calcul (méthode explicite).
 *   **Model Fitting :** L'étape d'optimisation a mis en évidence les limites du modèle de Malthus à long terme (erreur résiduelle de $\approx 403\,125$). Si le modèle de Gompertz offre une bonne description quantitative ($\approx 301\,061$), c'est le **modèle Logistique** qui a fourni le meilleur ajustement pour ce jeu de données spécifique (erreur minimale de $\approx 254\,368$), bien qu'une réserve soit émise vu de la taille restreinte des données.
 
