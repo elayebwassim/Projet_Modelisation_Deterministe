@@ -1,5 +1,5 @@
 # Projet_Modelisation_Deterministe
-Résolution numérique d'équations différentielles (Euler, Point Milieu, Crank-Nicholson) pour la dynamique des populations, et estimation de paramètres sur des données réelles de croissance tumorale (Malthus, Logistique, Gompertz).
+> Résolution numérique d'équations différentielles (Euler, Point Milieu, Crank-Nicholson) pour la dynamique des populations, et estimation de paramètres sur des données réelles de croissance tumorale (Malthus, Logistique, Gompertz).
 # Modélisation Déterministe : Croissance Tumorale & Résolution d'EDO
 
 ## Contexte du projet
